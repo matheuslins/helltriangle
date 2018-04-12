@@ -26,3 +26,10 @@ make deps
 ```
 make run
 ```
+
+### Run test
+```
+make test
+```
+
+
