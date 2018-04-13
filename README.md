@@ -33,3 +33,7 @@ make test
 ```
 
 
+#
+## Time Execution
+
+![Time](/timer_exec.png)
